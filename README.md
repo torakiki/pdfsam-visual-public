@@ -1,3 +1,11 @@
+# v1.0.1
+* Improved size of smaller monitors
+* Fixed permissions related failures.
+* Improved combine and reorder task with multiple page drag and drop, simpler page delete.
+* Filename patterns are now remembered.
+* Fixed bug related to filenames with accented characters on Windows, other Windows related stability improvements.
+* Better handling of large files, increased available memory pool to 1Gb.
+
 # v1.0.0
 * Added Split by text task
 * Upgraded PDFjs with corrected cmaps folder
