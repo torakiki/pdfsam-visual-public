@@ -5,6 +5,7 @@
 * Filename patterns are now remembered.
 * Fixed bug related to filenames with accented characters on Windows, other Windows related stability improvements.
 * Better handling of large files, increased available memory pool to 1Gb.
+* Upgraded sejda-console
 
 # v1.0.0
 * Added Split by text task
