@@ -1,3 +1,7 @@
+# v1.0.2
+* Includes various bugfixes for existing tasks.
+* Adds support for pre-activated silent installs in enterprise environments.
+
 # v1.0.1
 * Improved size of smaller monitors
 * Fixed permissions related failures.
