@@ -1,3 +1,7 @@
+# v1.0.3
+* 14-day trial
+* Includes various bugfixes for existing tasks
+
 # v1.0.2
 * Includes various bugfixes for existing tasks.
 * Adds support for pre-activated silent installs in enterprise environments.
