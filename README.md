@@ -1,4 +1,4 @@
-# v1.0.3
+# v1.0.4
 * 14-day trial
 * Includes various bugfixes for existing tasks
 
