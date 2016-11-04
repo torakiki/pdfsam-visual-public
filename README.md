@@ -1,3 +1,6 @@
+# v1.0.5
+* Includes bugfix for pre-activated silent installs in enterprise environments
+
 # v1.0.4
 * 14-day trial
 * Includes various bugfixes for existing tasks
