@@ -1,3 +1,7 @@
+# v1.0.6
+*  Fixes a critical bug that can lead to missing data.
+*  Upgrades the PDF engine with various bug fixes and enhancements 
+
 # v1.0.5
 * Includes bugfix for pre-activated silent installs in enterprise environments
 
