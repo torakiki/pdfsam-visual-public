@@ -1,3 +1,6 @@
+# v1.0.8
+* Adds French language support
+
 # v1.0.7
 *  Minor fixes and improvements, updates credits section.
 
