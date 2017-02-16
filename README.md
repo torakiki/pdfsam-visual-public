@@ -1,3 +1,6 @@
+# v1.0.9
+* Improves French translation
+
 # v1.0.8
 * Adds French language support
 
