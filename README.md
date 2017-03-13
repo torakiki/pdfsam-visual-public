@@ -1,3 +1,9 @@
+# v1.1.0
+* Visual page composer for combining and reordering PDF pages
+* Select file or folder output location, for each task
+* After trial ends PDFsam Visual is free to use within daily limits. Upgrade for premium features and unlimited use.
+* Various bug fixes and improvements
+
 # v1.0.9
 * Improves French translation
 
