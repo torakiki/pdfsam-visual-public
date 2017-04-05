@@ -1,3 +1,9 @@
+# v1.1.1
+* Natural sorting of filenames (1.pdf, 2.pdf, 10.pdf, 11.pdf) for merge and combine & reorder tasks.
+* Larger magnifier zoom (8x).
+* Batch (multiple files) support for the Split by pages task
+* Smaller bugfixes and improvements.
+
 # v1.1.0
 * Visual page composer for combining and reordering PDF pages
 * Select file or folder output location, for each task
