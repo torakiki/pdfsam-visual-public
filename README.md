@@ -1,3 +1,6 @@
+# v1.1.2
+* Fixes bug related to activating the product
+
 # v1.1.1
 * Natural sorting of filenames (1.pdf, 2.pdf, 10.pdf, 11.pdf) for merge and combine & reorder tasks.
 * Larger magnifier zoom (8x).
