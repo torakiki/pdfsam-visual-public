@@ -1,3 +1,17 @@
+
+# v1.1.4
+* Adds Italian translation.
+* Adds Spanish translation.
+* Adds German translation.
+
+# v1.1.3
+* Moves config location on Windows from %USERPROFILE% to %APPDATA%.
+* Updates Encrypt task adding more permissions.
+* Updates underlying PDF library, includes many minor bug fixes.
+* Fixes bug related to handling different files with the same name.
+* Adds Portuguese translation.
+* Remembers customised result filenames.
+
 # v1.1.2
 * Fixes bug related to activating the product
 
