@@ -1,4 +1,8 @@
 
+# v1.1.5
+* Adds support for porxy configuration.
+* Updates underlying PDF library.
+
 # v1.1.4
 * Adds Italian translation.
 * Adds Spanish translation.
