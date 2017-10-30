@@ -1,4 +1,8 @@
 
+# v1.1.6
+* Updates PDF engine.
+* Updates EULA.
+
 # v1.1.5
 * Adds support for porxy configuration.
 * Updates underlying PDF library.
