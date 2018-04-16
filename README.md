@@ -1,3 +1,6 @@
+# v1.1.8
+* Fixes bug in Encrypt task
+
 # v1.1.7
 * Updates PDF engine.
 * Fixed a permission issue on Linux.
