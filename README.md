@@ -1,3 +1,33 @@
+# v2.0.0
+* Added Delete pages task
+* Added Convert to grayscale task
+* Added Extract text task
+* Added Repair task
+* New application look
+* Rotate task can now be used on multiple input PDF files
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Localization completely reviewed and updated
+* Diminished the overall size of the application
+* Added button to open the generated PDF file using the native PDF reader
+* Improved user interface for the Extract pages task
+* Added a `Discard bookmarks` option to Extract pages, Split by size, Split by bookmarks, Split by text
+* Improved user interface for the Rotate task
+* Added merge option to consider the first file as a cover when generating a ToC
+* Improved user interface for the Crop pages task
+* Added `Ends with` field to split by text
+* Improved user interface for the Split task
+* Added manual proxy configuration to the settings panel
+* Language combo to properly show the default language
+* Encrypted passwords for PDF file when saving  tasks parameters to output file
+* Added a number of keyboard shortcuts
+* Fixed split by text selection when moving among pages with `Next` and `Prev` buttons
+* Fixed enabling and disabling (first page, last page) of `Next` and `Prev` buttons in split by text
+* Added a Log Viewer window to show application errors
+* Added MSI properties `LOCALE`, `ACCEPT_EULA` and  `BUGS_AUTOREPORT`
+* MSI now installs env variables in user space and removes them on uninstall
+* Added a .zip portable bundle
+
 # v1.1.8
 * Fixes bug in Encrypt task
 
