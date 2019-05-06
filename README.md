@@ -1,3 +1,8 @@
+# v2.0.1
+* Moved env variable to system space. Added a USER_LICENSE_KEY to the MSI properties to install the license key as a user env variable
+* Added `[TOTAL_FILESNUMBER]` to the possible prefixes
+* Updated German translation
+
 # v2.0.0
 * Added Delete pages task
 * Added Convert to grayscale task
