@@ -1,3 +1,11 @@
+# v2.0.2
+* Delete pages task to signal show an error when run with no pages left
+* Added a `CTRL + d` shortcut to remove pages selection
+* Better handling of UNC paths on Windows
+* Updated translations
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+
 # v2.0.1
 * Moved env variable to system space. Added a USER_LICENSE_KEY to the MSI properties to install the license key as a user env variable
 * Added `[TOTAL_FILESNUMBER]` to the possible prefixes
