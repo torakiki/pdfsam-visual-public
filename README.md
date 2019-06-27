@@ -1,3 +1,6 @@
+# v2.0.3
+* Fixed an issue with UNC paths on Windows
+
 # v2.0.2
 * Delete pages task to signal show an error when run with no pages left
 * Added a `CTRL + d` shortcut to remove pages selection
