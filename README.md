@@ -1,3 +1,8 @@
+# v2.0.4
+* Upgraded PDF engine
+* Extract text doesn't fail in case of a batch extraction and one file of the batch doesn't have any text
+* Added 32-bits bundles for Windows
+    
 # v2.0.3
 * Fixed an issue with UNC paths on Windows
 
