@@ -1,3 +1,14 @@
+# v2.1.1
+* Merge tool can now merge images (png, tiff, jpeg, bmp, gif) together with PDF files
+* Better feedback in case of existing output file and FAIL as output policy
+* Added an option to automatically populate the output field with the parent directory of the selected PDF file
+* Added a context menu to most of the tools, to allow the user to quickly set the output field same as one of the input files
+* Handling of special chars in Split by bookmarks -> Bookmarks containing text field
+* Added a --clean command line argument to clear user preferences and license key
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Upgraded Electron
+
 # v2.0.4
 * Upgraded PDF engine
 * Extract text doesn't fail in case of a batch extraction and one file of the batch doesn't have any text
