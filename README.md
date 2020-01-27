@@ -1,3 +1,11 @@
+# v2.1.3
+* Fixed the existing output policy setting that was always recognized as `RENAME`
+* Fixed an issue where split tasks where generating big output in case of input PDF files not conforming the PDF spec
+* Fixed the extract pages task in case of multiple input and an invalid page selection for one of the inputs
+* `Customize result names` field automatically save/restore its value
+* Upgraded PDF engine
+* Upgraded Electron
+
 # v2.1.2
 * Handle # and % chars in filename
 * Fixed merge task in case of images input only
