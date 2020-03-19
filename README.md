@@ -1,3 +1,11 @@
+# v2.1.4
+* Extract pages task can now generate a separate PDF file for each selected  page set
+* Improved merge of AcroForms to cover cases of more complex form fields hierarchies
+* Fixed an issue where [antivirus software interfere with writing output files](https://github.com/torakiki/sejda/issues/375)
+* Fixed a regression where Merge and Alternate Mix where not handling encrypted PDF files
+* Upgraded PDF engine
+* Notarization of the MacOS package
+
 # v2.1.3
 * Fixed the existing output policy setting that was always recognized as `RENAME`
 * Fixed an issue where split tasks where generating big output in case of input PDF files not conforming the PDF spec
