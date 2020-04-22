@@ -1,4 +1,8 @@
-# v2.1.4
+# v2.1.5
+* Upgraded PDF Engine
+* Fixed an issue in case of user permissions don't allow a REG QUERY on Windows
+
+
 * Extract pages task can now generate a separate PDF file for each selected  page set
 * Improved merge of AcroForms to cover cases of more complex form fields hierarchies
 * Fixed an issue where [antivirus software interfere with writing output files](https://github.com/torakiki/sejda/issues/375)
