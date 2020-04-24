@@ -1,6 +1,8 @@
+# v2.1.6
+* Fixed an issue in case of user permissions don't allow a REG QUERY on Windows
+
 # v2.1.5
 * Upgraded PDF Engine
-* Fixed an issue in case of user permissions don't allow a REG QUERY on Windows
 
 # v2.1.4
 * Extract pages task can now generate a separate PDF file for each selected  page set
