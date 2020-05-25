@@ -1,3 +1,7 @@
+# v2.1.7
+* Fixed Open folder button that wasn't always working
+* Clicking Open folder or Open file now opens in foreground
+
 # v2.1.6
 * Fixed an issue in case of user permissions don't allow a REG QUERY on Windows
 
