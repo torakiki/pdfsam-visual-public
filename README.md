@@ -1,6 +1,7 @@
 # v3.0.1
 * Fixed --clean argument that wasn't always working
 * Proper support for JPEG2000 in compress task
+* Upgraded Electron
 
 # v3.0.0
 * Added a Compress task to reduce files size
