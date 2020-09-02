@@ -1,3 +1,6 @@
+# v3.0.2
+* Fixed failure to start on Windows when REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography /v MachineGuid throws an error because of disabled permissions
+
 # v3.0.1
 * Fixed --clean argument that wasn't always working
 * Proper support for JPEG2000 in compress task
