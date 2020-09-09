@@ -1,3 +1,9 @@
+# v3.0.3
+* Fixed ToC generation in Merge task to properly handle links pointing to rotated pages
+* Fixed manual D&D sorting in Images to PDF task
+* Merge, Mix, Images to PDF tasks now have a toolbar to add files and sort the input
+* Updated PDF engine
+
 # v3.0.2
 * Fixed failure to start on Windows when `REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography /v MachineGuid` throws an error because of disabled permissions
 
