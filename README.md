@@ -1,3 +1,7 @@
+# v3.0.4
+* Added drag and drop support to Mix, Merge, Images to PDF and Visual combine to allow dropping of files even after the first drop
+* Fixed "please wait" modal window that was hanging sometimes on Windows
+
 # v3.0.3
 * Fixed ToC generation in Merge task to properly handle links pointing to rotated pages
 * Fixed manual D&D sorting in Images to PDF task
