@@ -1,3 +1,7 @@
+# v3.0.5
+* Fixed D&D in Combine and Reorder
+* Restored working buttons to Open file and Open Folder in task result modal
+
 # v3.0.4
 * Added drag and drop support to Mix, Merge, Images to PDF and Visual combine to allow dropping of files even after the first drop
 * Fixed "please wait" modal window that was hanging sometimes on Windows
