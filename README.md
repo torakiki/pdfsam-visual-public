@@ -1,3 +1,7 @@
+# v3.0.6
+* Fixed an issue with the validation of an Offline Activation Token
+* Upgraded Electron
+
 # v3.0.5
 * Fixed D&D in Combine and Reorder
 * Restored working buttons to Open file and Open Folder in task result modal
