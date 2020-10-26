@@ -1,6 +1,6 @@
 
 # v3.0.7
-* Added check boxes to the Compress task to drive Discard Bookmarks and Discard Multimedia
+* Added check boxes to the Compress task to drive `Discard Bookmarks` and `Discard Multimedia`
 * Upgraded PDF engine
 
 # v3.0.6
