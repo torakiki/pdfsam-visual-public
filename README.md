@@ -1,4 +1,8 @@
 
+# v3.0.8
+* Upgraded Electron
+* Upgraded PDF Engine
+
 # v3.0.7
 * Added check boxes to the Compress task to drive `Discard Bookmarks` and `Discard Multimedia`
 * Upgraded PDF engine
