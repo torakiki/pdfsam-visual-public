@@ -1,4 +1,10 @@
 
+# v3.0.9
+* Upgraded Electron
+* Upgraded PDF engine
+* Added images rotation capabilities to the ImagesToPdf tool
+* Correct handling of file names containing double quotes
+
 # v3.0.8
 * Upgraded Electron
 * Upgraded PDF Engine
