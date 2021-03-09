@@ -1,3 +1,7 @@
+# v3.0.10
+* Upgraded PDF Engine
+* Fixed an issue with the Compress task and softmasks defined in ExtGState
+* Fixed an issue with the Combine and Reorder task that could lead to the task failing
 
 # v3.0.9
 * Upgraded Electron
