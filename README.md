@@ -1,3 +1,6 @@
+# v3.0.11
+* Fixed an issue with the Encrypt tool and numeric passwords starting with `0`
+* 
 # v3.0.10
 * Upgraded PDF Engine
 * Fixed an issue with the Compress task and softmasks defined in ExtGState
