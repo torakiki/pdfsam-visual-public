@@ -1,3 +1,7 @@
+# v3.0.12
+* Upgraded PDF Engine
+* Fixed a corner case in Split and Extract pages tasks
+* 
 # v3.0.11
 * Fixed an issue with the Encrypt tool and numeric passwords starting with `0`
 
