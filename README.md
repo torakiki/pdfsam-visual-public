@@ -1,3 +1,7 @@
+# v3.0.13
+* Upgraded PDF Engine
+* Upgraded PDF render engine
+
 # v3.0.12
 * Upgraded PDF Engine
 * Fixed a corner case in Split and Extract pages tasks
