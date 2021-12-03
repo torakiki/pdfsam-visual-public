@@ -1,3 +1,27 @@
+# v4.0.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Added a _Resize pages_ tool
+* Replaced the pages magnifier with a button to open a page preview with additional zooming power
+* New dashboard with "Tools" and "Recent files"
+* Restyled menu with Tools always at hand
+* Added the number of expected output files in the _Split_ task
+* _Visual Combine & Reorder_ task renamed to _Organize pages_
+* Added the number of expected pages in the _Organize pages_ task
+* _Organize pages_ now allows images input (jpg, png..)
+* _Organize pages_ can now drag and drop files in between pages
+* _Organize pages_ fixed an issue with the generated bookmarks tree
+* _Images to PDF_ can now drag and drop files in between other files
+* Proper handling of Exif rotation when an image is used as input
+* _Delete PDF pages_ now allows to select all blank pages in one click
+* _Extract PDF pages_ now allows to select all non blank pages in one click
+* Proper MacOS menu with standard entries
+* Simplified handling of "Overwrite output" in case of a single file output
+* Added a setting to select the unit of measure as Inches or Centimeters, used in Crop and few other tools
+* Crop now shows the crop area size
+* In _Delete pages_ is now possible to set all pages for deletion in one click and then unselect those to keep
+
 # v3.0.13
 * Upgraded PDF Engine
 * Upgraded PDF render engine
