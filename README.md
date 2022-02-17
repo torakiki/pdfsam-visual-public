@@ -1,3 +1,16 @@
+# v4.0.1
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Added support for SVG, WebP, Multiple TIF and AVIF to the ImagesToPdf tool
+* Added support for SVG, WebP, Multiple TIF and AVIF to the Organize pages tool
+* Added support for SVG, WebP, Multiple TIF and AVIF to the Merge PDF tool
+* Added tab navigation focusing the images and page thumbnails
+* Added `alt + p` shortcut to open the preview of the focused element
+* `SPACE` key now selects the focused element
+* Closing the preview will focus the original page/image 
+* Organize pages tool: add blank pages made more usable and fixed few edge cases
+
 # v4.0.0
 * Upgraded Electron
 * Upgraded PDF engine
