@@ -1,3 +1,12 @@
+# v4.0.2
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed an issue with the Normalize page size in the Merge tool where outline and link annotation destinations may end up with wrong destination coordinates
+* Fixed an issue with the Resize tool where outline and link annotation destinations may end up with wrong destination coordinates
+* Fixed an issue with Tiling patterns streams that weren't processed during the optimization process. This could lead to missing pattern resources in some cases
+* Expected output file extension is automatically added when missing
+
 # v4.0.1
 * Upgraded Electron
 * Upgraded PDF engine
