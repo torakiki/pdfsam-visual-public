@@ -1,3 +1,7 @@
+# v4.0.3
+* Upgraded Electron
+* Fixed a proxy authentication issue
+
 # v4.0.2
 * Upgraded Electron
 * Upgraded PDF engine
