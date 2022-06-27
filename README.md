@@ -1,3 +1,11 @@
+# v4.0.4
+* Upgraded Electron
+* Upgraded PDF engine
+* Offline activation tokens now use anonymized username
+* Failing tasks now show the PDF file that was processing and failed
+* Improved handling of broken PDF files where the PDF engine has to perform a full scan of the PDF objects
+* We now handle correctly those files containing garbage bytes at the beginning
+
 # v4.0.3
 * Upgraded Electron
 * Fixed a proxy authentication issue
