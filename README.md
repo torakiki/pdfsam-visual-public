@@ -1,3 +1,6 @@
+# v4.0.5
+* Fixed an issue handling files with multiple lines of garbage on top
+
 # v4.0.4
 * Upgraded Electron
 * Upgraded PDF engine
