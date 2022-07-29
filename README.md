@@ -1,3 +1,9 @@
+# v4.1.0
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Upgraded Electron to the next maintained major version
+* Proper Tiling patterns streams processing in the Compress task
+
 # v4.0.5
 * Fixed an issue handling files with multiple lines of garbage on top
 
