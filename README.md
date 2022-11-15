@@ -1,3 +1,8 @@
+# v4.2.0
+* Upgraded Electron to the next maintained major version
+* Added an icon to hide/unhide password fields
+* Added a dark theme
+
 # v4.1.1
 * Upgraded PDF engine
 * Upgraded PDF rendering engine
