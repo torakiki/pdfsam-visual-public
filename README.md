@@ -1,3 +1,6 @@
+# v4.2.1
+* Upgraded Electron
+
 # v4.2.0
 * Upgraded Electron to the next maintained major version
 * Added an icon to hide/unhide password fields
