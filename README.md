@@ -1,3 +1,7 @@
+# v4.3.0
+* Upgraded Electron to the next maintained major version
+* Added Korean language
+
 # v4.2.1
 * Upgraded Electron
 
