@@ -1,3 +1,17 @@
+# v5.0.0
+* Added a task to Extract images from PDF files. The task can use the `[IMAGE_NAME]` placeholder to drive the name of the generated files.
+* Added a task to convert pages of PDF files to images (PNG, JPEG, TIFF)
+* Added a task to flatten form fields and page content
+* `[IMAGE_NAME]` and `[TEXT]` placeholders can optionally be piped with string transformations. Ex. `[TEXT | upper], [TEXT | lower], [TEXT | capitalize], [TEXT | replace('this', 'that')], [TEXT | upper | replace('this', 'that')]`
+* Compress task now subsets TrueType fonts
+* Page normalization in Merge tool is now a combo with an additional entry
+* Show skipped files, if any, when the user selects "Skip existing files"
+* All the menus are now localized
+* Some of the tasks option fields are now persistent (automatically save/restored)
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+
 # v4.3.1
 * Upgraded Electron
 * Fixed a couple of cosmetic issues
