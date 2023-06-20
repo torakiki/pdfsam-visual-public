@@ -1,3 +1,9 @@
+# v5.0.1
+* Upgraded Electron
+* Better menu for the placeholders suggestions
+* `[TEXT]` and `[IMAGE_NAME]` placeholders are less restrictive regarding invalid chars
+* Improved grayscale conversion
+
 # v5.0.0
 * Added a task to Extract images from PDF files. The task can use the `[IMAGE_NAME]` placeholder to drive the name of the generated files.
 * Added a task to convert pages of PDF files to images (PNG, JPEG, TIFF)
