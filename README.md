@@ -1,3 +1,10 @@
+# v5.1.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed an issue where some menus weren't properly localized
+* Added pages count to Split By Text
+
 # v5.0.1
 * Upgraded Electron
 * Better menu for the placeholders suggestions
