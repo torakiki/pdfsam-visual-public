@@ -1,3 +1,9 @@
+# v5.2.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed an issue with the locale detection that was setting the application in German on the first run
+
 # v5.1.0
 * Upgraded Electron
 * Upgraded PDF engine
