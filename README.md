@@ -1,3 +1,8 @@
+# v5.3.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+
 # v5.2.0
 * Upgraded Electron
 * Upgraded PDF engine
