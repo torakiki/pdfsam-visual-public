@@ -1,3 +1,8 @@
+# v5.3.2
+* Upgraded Electron
+* Upgraded PDF engine
+* Fixed an issue with the compression task that was adding a black background to compressed images in some corner case
+
 # v5.3.1
 * Upgraded Electron
   
