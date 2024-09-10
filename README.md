@@ -1,3 +1,7 @@
+# v5.4.1
+* Upgraded Electron
+* Applied workaround for `.deb` package on Ubuntu 24.04 https://github.com/electron/electron/issues/42510
+
 # v5.4.0
 * Upgraded Electron
 * Upgraded PDF engine
