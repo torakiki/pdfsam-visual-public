@@ -1,3 +1,8 @@
+# v5.5.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Fixed an issue with optional content and compress task
+
 # v5.4.1
 * Upgraded Electron
 * Applied workaround for `.deb` package on Ubuntu 24.04 https://github.com/electron/electron/issues/42510
