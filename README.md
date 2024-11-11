@@ -1,3 +1,7 @@
+# v5.5.1
+* Upgraded Electron
+* Fixed an issue with drag and drop of files
+
 # v5.5.0
 * Upgraded Electron
 * Upgraded PDF engine
