@@ -1,3 +1,9 @@
+# v5.5.2
+* Upgraded Electron
+* Upgraded PDF engine
+* Fixed a duplicate entry in the "Continue with" menu
+* Fixed English locale on MacOS
+
 # v5.5.1
 * Upgraded Electron
 * Fixed an issue with drag and drop of files
