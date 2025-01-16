@@ -1,3 +1,12 @@
+# v6.0.0
+* Added N-up tool to arranges multiple pages of a document onto a single page
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed Portuguese locale for menus
+* Fixed an issue with some tools not asking for the password for encrypted documents
+* Fixed the context menu to customize file names that wasn't always setting the correct string
+
 # v5.5.2
 * Upgraded Electron
 * Upgraded PDF engine
