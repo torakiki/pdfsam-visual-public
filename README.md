@@ -1,3 +1,9 @@
+# v6.0.1
+* Upgraded Electron
+* Upgraded PDF engine
+* Fixed an edge case of the fonts subsetting in the Compress task
+* Fixed an edge case of the Resize task when CropBox and MediaBox are not the same
+
 # v6.0.0
 * Added N-up tool to arranges multiple pages of a document onto a single page
 * Upgraded Electron
