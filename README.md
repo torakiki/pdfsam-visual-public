@@ -1,3 +1,12 @@
+
+# v6.0.2
+*  Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed an edge case with the rotation tool when multiple files are selected
+* Added Dutch translation
+* Added Polish translation
+
 # v6.0.1
 * Upgraded Electron
 * Upgraded PDF engine
