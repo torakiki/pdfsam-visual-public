@@ -1,3 +1,9 @@
+# v6.1.1
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Added a `nospaces` transformation for [TEXT] prefix
+* Fixed an issue with the N-Up task not handling correctly pages with `null` content
 
 # v6.0.2
 *  Upgraded Electron
