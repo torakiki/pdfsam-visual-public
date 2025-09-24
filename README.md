@@ -1,3 +1,9 @@
+# v6.2.0
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Upgraded few dependencies
+
 # v6.1.1
 * Upgraded Electron
 * Upgraded PDF engine
