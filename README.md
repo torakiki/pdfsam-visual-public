@@ -1,3 +1,8 @@
+# v6.2.1
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Fixed an issue with the zoom feature
+
 # v6.2.0
 * Upgraded Electron
 * Upgraded PDF engine
