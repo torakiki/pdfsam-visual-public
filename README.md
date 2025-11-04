@@ -1,3 +1,10 @@
+# v6.3.0
+* New task to validate PDF/A conformance of multiple PDF files
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Reworked the tasks execution dialog
+  
 # v6.2.1
 * Upgraded PDF engine
 * Upgraded PDF rendering engine
