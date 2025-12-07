@@ -1,3 +1,8 @@
+# v6.3.1
+* Upgraded Electron
+* Upgraded PDF rendering engine
+* Fixed a rendering issue with Jpeg2000 codec
+
 # v6.3.0
 * New task to validate PDF/A conformance of multiple PDF files
 * Upgraded Electron
