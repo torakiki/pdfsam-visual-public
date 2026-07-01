@@ -1,4 +1,4 @@
-# v7.0.0
+# v7.0.1
 * Added `Clean PDF` tool to remove metadata, xmp metadata and annotations from PDF files
 * Added `Edit metadata` tool to edit document metadata (Title, Author, Subject, Keywords)
 * Upgraded Electron
