@@ -1,3 +1,21 @@
+# v7.0.0
+* Added `Clean PDF` tool to remove metadata, xmp metadata and annotations from PDF files
+* Added `Edit metadata` tool to edit document metadata (Title, Author, Subject, Keywords)
+* Upgraded Electron
+* Upgraded dependencies
+* Cleaned up deprecated API usage
+* Dropped 32-bit support for Windows
+* PDF engine to latest major versions
+* Better handling of problematic PDFs: improved robustness when reading files with malformed annotations, invalid color spaces, broken font dictionaries, malformed metadata and invalid CropBox
+* PDF 2.0 support: UTF-8 encoded strings introduced in PDF 2.0 are now correctly read and written.
+* Merge fixes: fixed incorrect font size rescaling in Table of Contents merges, improved handling of empty ToC entries and fixed a hang when processing PDFs with certain bookmark structures.
+* JDK 25
+* Stricter security when parsing the Sejda configuration XML file
+* Overcomes the xref stream parsing 2 GB limitation
+* Stricter validation throughout xref-stream parsing to prevent OOM and related issues
+* Added validation on predictor parameters to avoid overflow.
+* Bug fix [#248](https://github.com/torakiki/sambox/issues/248): page deletion no longer fails when the /Kids attribute is missing.
+
 # v6.5.1
 * Upgraded Electron
 * Upgraded PDF engine
