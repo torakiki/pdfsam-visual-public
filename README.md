@@ -1,3 +1,9 @@
+# v7.0.2
+* Edit Metadata tool: added ability to set and delete custom metadata fields (including full deletion support)
+* Clean PDF tool: can now selectively remove Producer and Creator metadata
+* Upgraded PDF engine
+* Upgraded Electron
+
 # v7.0.1
 * Added `Clean PDF` tool to remove metadata, xmp metadata and annotations from PDF files
 * Added `Edit metadata` tool to edit document metadata (Title, Author, Subject, Keywords)
