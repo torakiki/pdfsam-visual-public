@@ -1,3 +1,12 @@
+# v7.1.0
+* Added support for Brotli compressed streams
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded PDF rendering engine
+* Extract pages tool: `[BASENAME]` can now be used on its own as output prefix when a single file is extracted
+* Split by bookmarks level tool: control characters in bookmark titles no longer end up in file names generated with `[BOOKMARK_NAME]`
+* Bug fix [#253](https://github.com/torakiki/sambox/issues/253): malformed XMP metadata, with Creator, Title and Description written as text instead of arrays, is now read correctly
+
 # v7.0.2
 * Edit Metadata tool: added ability to set and delete custom metadata fields (including full deletion support)
 * Clean PDF tool: can now selectively remove Producer and Creator metadata
