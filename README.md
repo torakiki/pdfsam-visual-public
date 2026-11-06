@@ -3,11 +3,6 @@
 * Upgraded PDF engine
 * Upgraded PDF rendering engine
 * JDK 25.0.5 with the fix for CVE-2026-114820
-* Fixed split outputs that could lose changes, like unused fonts removed by compression, when pages share objects in the same object stream
-* Fixed document metadata being lost when loading encrypted PDFs with compressed metadata
-* Fixed corrupted content when decoding ASCII85 and ASCIIHex encoded streams
-* Fixed content that was ignored after stray `)`, `]` or `>` characters in a page content stream
-* A CropBox with zero or negative width or height now falls back to the MediaBox, as other PDF readers do
   
 # v7.1.0
 * Added support for Brotli compressed streams
