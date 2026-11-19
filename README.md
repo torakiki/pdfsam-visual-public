@@ -1,3 +1,21 @@
+# v7.2.1
+* Upgraded Electron
+* Upgraded PDF engine
+* Upgraded dependencies with fixes for known vulnerabilities (Bouncy Castle CVE-2026-103605 through CVE-2026-103617)
+* JDK 25.0.5.1 with the fix for CVE-2026-114938 (Java4shell)
+* PDF/A conformance tool: upgraded veraPDF to 1.30.4
+* Split by size tool: output files no longer miss fonts, images or other resources shared with pages that end up in other files
+* Flatten tool: flattening form fields no longer fails on fields without a valid /Rect, on fonts without a name or on text fields whose value ends with a line break
+* Fixed generated form field and annotation appearances that could contain corrupted numbers
+* Encrypt tool: signature /Contents are no longer encrypted, as the PDF specification requires
+* Strings shared by more than one object are no longer encrypted twice and left unreadable
+* Encrypt tool: fixed AES-256 encrypted files that could not be opened when several encryptions ran at the same time
+* Fixed names with non-ASCII characters (e.g. `/F#E9`) being rewritten on save, which could breake the link between fonts or other resources and the content using them, and renamed radio button states
+* Fixed document metadata being lost when reading encrypted PDFs whose metadata stream is compressed
+* Better handling of problematic PDFs: corrupt Flate streams, ASCII85 streams without the end-of-data marker, ASCIIHex streams with white-space between digits, DeviceN color spaces with invalid attributes,  annotations without /Rect, and CropBox with zero or negative size, which now falls back to the MediaBox like pdf.js and PDFium do
+* ASCII85 streams with invalid characters now fail with an error instead of being silently decoded to wrong data
+* Text extraction and rendering fixes: content after a stray closing delimiter in a content stream is no longer ignored, and non-numeric entries in a font's /Widths no longer shift the position of the following characters
+  
 # v7.2.0
 * Upgraded Electron to the next maintained major version
 * Upgraded PDF engine
