@@ -2,7 +2,7 @@
 * Upgraded Electron
 * Upgraded PDF engine
 * Upgraded dependencies with fixes for known vulnerabilities (Bouncy Castle CVE-2026-103605 through CVE-2026-103617)
-* JDK 25.0.5.1 with the fix for CVE-2026-114938 (Java4shell)
+* JDK 25.0.5.1 with the fix for CVE-2026-114938 (Java4Shell)
 * PDF/A conformance tool: upgraded veraPDF to 1.30.4
 * Split by size tool: output files no longer miss fonts, images or other resources shared with pages that end up in other files
 * Flatten tool: flattening form fields no longer fails on fields without a valid /Rect, on fonts without a name or on text fields whose value ends with a line break
